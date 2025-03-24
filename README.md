@@ -21,6 +21,12 @@
 使う場合は、aepを他のaepを開いた状態でD&Dして、コンポジションを配置し使ってください。
 また、Essential Graphicsを設定済みなので、配置したコンポジションからパラメーターを弄ったり、premireで使えたりするはずです。
 
+## 使い方 / How to use
+
+1. リポジトリから[`clk_cc2023.aep`](https://github.com/Aodaruma/clock.aep_v2/raw/refs/heads/main/clk_cc2023.aep)をダウンロード
+2. 他のプロジェクトを開いた状態で、ダウンロードしたaepをD&D
+3. コンポジションを配置し、パラメーターを操作
+
 ## パラメーター説明 / Description of parameters
 
 - Settings
